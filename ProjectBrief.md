@@ -1,2 +1,2 @@
 * Project Brief: Tasked to translate markup into code.
-* Technologies used: Html, CSS & Visual stuido code.
+* Technologies used: Html, CSS & Visual studio code.
